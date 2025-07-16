@@ -243,6 +243,10 @@ This will show:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Author
+
+**Tobias Harms**
+
 ## Support
 
 For issues and questions:
