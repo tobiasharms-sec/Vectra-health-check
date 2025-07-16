@@ -241,7 +241,7 @@ This will show:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is provided as-is for educational and operational purposes. Please ensure compliance with your organization's security policies and Vectra's terms of service.
 
 ## Author
 
@@ -250,14 +250,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For issues and questions:
-- Open an issue on GitHub
 - Check the [troubleshooting section](#troubleshooting)
 - Review the Vectra API documentation
-
-## Version History
-
-- **v2.0**: Enhanced version with comprehensive health checks, improved error handling, and modular authentication
-- **v1.0**: Initial release with basic health check functionality
 
 ## Author
 
